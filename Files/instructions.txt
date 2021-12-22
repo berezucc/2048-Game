@@ -1,0 +1,16 @@
+General Instructions:
+1. Select game difficulty from the main menu.
+2. Use the arrow keys to navigate the board.
+
+How To Play:
+1. Shift the numbered blocks on the board.
+2. Blocks can either be merged into another 
+    block of the same type, or an empty space.
+3. Merged blocks are twice the value of the 
+    original blocks they were merged from.
+4. The goals is to eventually get a block 
+    with a value of 2048 to win!
+
+2048 Extended:
+1. The extended version of the game allows 
+    blocks greater than 2048.
