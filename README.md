@@ -43,7 +43,7 @@ Avoid excessive movements, keep your moves concise so that each move is importan
 ![image](https://user-images.githubusercontent.com/96497560/147514426-54869d7a-0856-4a8f-861b-c26c719cebe1.png)
 
 ## Credits
-Created by Nikita B and Vlad A with minimal assistance from Shawn W.
+Created by Nikita B and Vlad A.
 ![image](https://user-images.githubusercontent.com/96497560/147514540-1132f50a-bfd4-4d41-bc04-01665d93362f.png)
 ![image](https://user-images.githubusercontent.com/96497560/147514546-4df75b9b-85a7-4fa7-8250-cd245547ec86.png)
 
